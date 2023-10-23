@@ -11,3 +11,4 @@
 
 ## Questions we want to answer:
   *Which medium of will be the more relavent way of shopping for consumers?
+  * which means of shopping is more popular right now?
