@@ -9,5 +9,5 @@
 * stock prices for all the companies to quantify consumer buying habits and future habits/popularity
 * spread of e-commerce vs brick and mortor
 
-Questions we want to answer:
+## Questions we want to answer:
   *Which medium of will be the more relavent way of shopping for consumers?
