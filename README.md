@@ -12,4 +12,5 @@
 ## Questions we want to answer:
   *Which medium of will be the more relavent way of shopping for consumers?
   * which means of shopping is more popular right now?
-  * 
+  * Can you guess the top 5 online retailers as of the latest data (released 2021)? https://sageseller.com/blog/top-online-retailers-2021-report-of-the-most-popular-shopping-websites/
+  * Can you guess the percentage of purchases that were made through E-commerce? [Answer: ~%15]
