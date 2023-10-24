@@ -21,4 +21,4 @@ https://www.census.gov/retail/ecommerce.html#:~:text=The%20second%20quarter%2020
 * Consumer price index/confidence- Parth
 * Inflation/Interest Rates- Stacey
 * Per capital disposable income/unemployment rate- Chuck
-* Covid (Optional)- Terrell
+* Covid (Could possibly change)- Terrell
