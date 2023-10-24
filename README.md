@@ -21,3 +21,14 @@ Motor Vehicle -
 CLothing  -
 Furniture -
 Total retail-
+---
+## Factors
+Consumer Price Index
+Consumer Confidence Index
+Inflation
+Interest rates
+Per capital disposable income
+Population
+Number of households/population
+National unemployment rate
+Seasonality/Holidays
