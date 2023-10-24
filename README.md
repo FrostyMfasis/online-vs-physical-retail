@@ -11,14 +11,14 @@
 ---
 https://www.census.gov/retail/ecommerce.html#:~:text=The%20second%20quarter%202023%20e,15.4%20percent%20of%20total%20sales
 ---
-Motor Vehicle - 
-CLothing  -
-Furniture -
-Total retail-
+* Motor Vehicle - 
+* CLothing  -
+* Furniture -
+* Total retail-
 ---
 
 ## Factors to cover 
-Consumer price index- 
-Inflation/Interest Rates-
-Per capital disposable income/unemployment rate- Chuck
-Covid- 
+* Consumer price index- 
+* Inflation/Interest Rates-
+* Per capital disposable income/unemployment rate- Chuck
+* Covid- 
