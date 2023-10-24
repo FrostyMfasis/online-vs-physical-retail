@@ -32,3 +32,4 @@ Population
 Number of households/population
 National unemployment rate
 Seasonality/Holidays
+Birth Rate
