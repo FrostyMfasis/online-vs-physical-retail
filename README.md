@@ -22,7 +22,8 @@ CLothing  -
 Furniture -
 Total retail-
 ---
-## Factors
+
+## Factors to cover
 Consumer Price Index
 Consumer Confidence Index
 Inflation
@@ -34,3 +35,10 @@ National unemployment rate
 Seasonality/Holidays
 Birth Rate
 Covid
+---
+
+---
+Consumer price index- 
+Inflation/Interest Rates-
+Per capital disposable income/unemployment rate- Chuck
+Covid- 
