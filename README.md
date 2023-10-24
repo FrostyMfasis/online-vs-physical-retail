@@ -23,21 +23,7 @@ Furniture -
 Total retail-
 ---
 
-## Factors to cover
-Consumer Price Index
-Consumer Confidence Index
-Inflation
-Interest rates
-Per capital disposable income
-Population
-Number of households/population
-National unemployment rate
-Seasonality/Holidays
-Birth Rate
-Covid
----
-
----
+## Factors to cover 
 Consumer price index- 
 Inflation/Interest Rates-
 Per capital disposable income/unemployment rate- Chuck
