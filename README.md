@@ -11,14 +11,35 @@
 ---
 https://www.census.gov/retail/ecommerce.html#:~:text=The%20second%20quarter%202023%20e,15.4%20percent%20of%20total%20sales
 ---
-* Motor Vehicle - Terrell
-* All other/ food & beverage etc.- Parth
-* Furniture - Stacey
-* Total retail- Chuck
----
 
-## Factors to cover 
-* Consumer price index/confidence- Parth
-* Inflation/Interest Rates- Stacey
-* Per capital disposable income/unemployment rate- Chuck
-* Covid (Could possibly change)- Terrell
+Part 1: Impact of E-commerce on Overall Retail/Sales 
+
+Industries: 
+
+1) Total Retail Sales  - Chuck
+
+2) Motor Vehicles & Parts -  Terrell
+
+3) Furniture, Building Materials, & Electronics - Stacey
+
+4) All Other (food and beverage, health and personal care, sporting goods, musical instruments, & books, miscellaneous  - Parth
+
+ 
+
+Part 2: Factors Impacting the Market 
+
+Consumer Price Index/Confidence - Parth
+
+Disposable Income/Unemployment - Chuck
+
+Interest Rate/Inflation - Stacey
+
+Covid (Could possibly change)- Terrell
+
+ 
+
+Part 3: Projections for Each Industry 
+
+Monte Carlo Simulations 
+
+ 
