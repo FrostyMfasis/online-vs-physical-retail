@@ -16,30 +16,30 @@ https://www.census.gov/retail/ecommerce.html#:~:text=The%20second%20quarter%2020
 
 Industries: 
 
-* 1) Total Retail Sales  - Chuck
+*  Total Retail Sales  - Chuck
 
-* 2) Motor Vehicles & Parts -  Terrell
+*  Motor Vehicles & Parts -  Terrell
 
-* 3) Furniture, Building Materials, & Electronics - Stacey
+*  Furniture, Building Materials, & Electronics - Stacey
 
-* 4) All Other (food and beverage, health and personal care, sporting goods, musical instruments, & books, miscellaneous  - Parth
+*  All Other (food and beverage, health and personal care, sporting goods, musical instruments, & books, miscellaneous  - Parth
 
 ---
  
 ## Part 2: Factors Impacting the Market 
 
-Consumer Price Index/Confidence - Parth
+* Consumer Price Index/Confidence - Parth
 
-Disposable Income/Unemployment - Chuck
+* Disposable Income/Unemployment - Chuck
 
-Interest Rate/Inflation - Stacey
+* Interest Rate/Inflation - Stacey
 
-Covid (Could possibly change)- Terrell
+* Covid (Could possibly change)- Terrell
 
 ---
 
 ## Part 3: Projections for Each Industry 
 
-Monte Carlo Simulations 
+* Monte Carlo Simulations 
 
  
