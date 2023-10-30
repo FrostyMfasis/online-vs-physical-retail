@@ -1,7 +1,7 @@
 ## From Brick to Click: The Shifting Landscape of Retail
 ---
 
-*The evolution of retail. We will examine the contrast between  Brick and Mortor sales vs E-commerce sales and pinpoint the drivers influencing retail outcomes. We will also forecast the future of E-commerce vs. Brick and Mortor sales.
+*The evolution of retail. We will examine the contrast between  Brick and Mortor sales vs. E-commerce sales and pinpoint the drivers influencing retail outcomes. We will also forecast the future of E-commerce vs. Brick and Mortor sales.
 
 ## Questions we want to answer: 
   *Which medium of will be the more relavent way of shopping for consumers?
