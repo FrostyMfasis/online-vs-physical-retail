@@ -10,6 +10,7 @@ The landscape of Retail has changed staggeringly in the past decade, evolving fr
 ## Our Project will focus on the following 4 Industries:
 
 ## A) Furniture, Building Materials, & Electronics
+![5_Image - Brick-and_Mortar_total_Sales](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065537/c96c8bb3-1869-4bc4-bc6c-f23b05cc6bc1)
 
 ![1_Image - E_Commerce_Sales ](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/f9fb11b0-e556-4153-9257-9dea4ebd1d3f)
 
