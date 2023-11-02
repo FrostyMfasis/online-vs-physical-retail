@@ -52,7 +52,11 @@ Our Project will focus on the following 4 major factors of impact:
 
 ## C) Consumer Price Index (CPI)
 
-![Screenshot (130)](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/2f7c11c7-8413-4bb2-b3e6-a05827f542a6)
+![Screenshot (133)](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/489765e4-bc18-4ab0-95ca-d8efe310499a)
+
+![Screenshot (134)](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/7e74c30c-38d4-4c88-9a04-3e7fc7421c9c)
+
+![Screenshot (135)](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/4b4defa7-9a53-41e9-98c7-847d7ed69bc4)
 
 
 ## D) Real Disposable Income + Total Retail Vacancies 
