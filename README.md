@@ -1,11 +1,12 @@
 ## From Brick to Click: The Shifting Landscape of Retail
 ---
-![download](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/94b77c81-c0fd-4186-b7ca-9e1147982c3c)
+![ecommerce](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/092b68eb-73ea-4088-88a7-fa10005ea50e)
 
-![images](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/57b950b0-5751-4789-9f1d-f75209da3c68)
+![image-from-rawpixel-id-906356-original-scaled](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/c3982650-28ce-4733-a4f6-197ab6ad693f)
 
-![images](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/2cfcff54-72a2-4ff7-94a4-0665699c0ece)
+![images](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/544257fb-0d3c-4aa0-8759-11319dfd6864)
 
+![1_OFoy3zXZq0yZPZxQm3L-pQ](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/80a05b94-790d-4433-bf31-bd16f37641bc)
 
 
  
