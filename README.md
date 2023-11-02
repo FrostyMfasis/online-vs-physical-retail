@@ -23,6 +23,8 @@ The landscape of Retail has changed staggeringly in the past decade, evolving fr
 
 ## D) Total Retail Sales
 
+![Image_0 - Total_Retail_Part1_Image](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/8fd9003b-62ab-485e-a142-c4a5eb99c6c6)
+
  
 
 
