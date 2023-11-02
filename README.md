@@ -35,26 +35,20 @@ The landscape of Retail has changed staggeringly in the past decade, evolving fr
 
  
 
-
-
-
-
-
-
-
-
-
-
 # 2) Factors Impacting the Market
 
 Our Project will focus on the following 4 major factors of impact:
 
 ## A) Interest Rates/Inflation
+
 ![3_Image - Interest_Rates](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/4e2c7d07-f8e0-4148-8800-42e9d2bbcb50)
 
 ![4_Image - Inflation](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/5d2329cc-cf0a-4e49-b75f-46f0fcab766a)
 
 ## B) Covid
+
+![1_NC_covid_cases](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/b7a71575-8a31-416e-82fc-7d4f8eb9f385)
+
 
 ## C) Consumer Price Index (CPI)
 
