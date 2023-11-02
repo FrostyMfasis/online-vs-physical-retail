@@ -1,6 +1,6 @@
 # From Brick to Click: The Shifting Landscape of Retail
 ---
-
+ 
 ![image-from-rawpixel-id-906356-original-scaled](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/c3982650-28ce-4733-a4f6-197ab6ad693f)
 
 The landscape of Retail has changed staggeringly in the past decade, evolving from purely brick-and-mortor sales to a post-pandemic digital-first approach for retailers. Our Project, which is broken up into 3 separate parts, will focus on retail's evolution over the past 5 years and provide an analysis focused on 3 factors:
