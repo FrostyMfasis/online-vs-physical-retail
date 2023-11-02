@@ -70,8 +70,6 @@ Our Project will focus on the following 4 major factors of impact:
 
 ![4_total_retail_monte_carlo](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/2f140b24-4791-441e-afbb-120533dfb44f)
 
-![article5518](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/e55ce577-bb5e-44ce-a09d-a06a764ea8db)
-
 ![c02c16aa94c56c104072d8662b835e4fcf167432](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/61b0f109-47ef-4164-b83c-88e8189bffa6)
 
 
