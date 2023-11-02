@@ -45,7 +45,7 @@ The landscape of Retail has changed staggeringly in the past decade, evolving fr
 
 Our Project will focus on the following 4 major factors of impact:
 
-## A) Inflation
+## A) Interest Rates/Inflation
 
 ## B) Covid
 
