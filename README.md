@@ -65,17 +65,7 @@ Our Project will focus on the following 4 major factors of impact:
 
 ![3_Image - Correlation_Seaborn_Heatmap](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/05ac3251-37e0-4707-9dd6-c5173a7bc7e5)
 
-
-
-
-
-
-
-
-
-
-
-
+![Screenshot (132)](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/89b6d53f-7aa9-411c-bbe0-cfb59d85106a)
 
 
 # 3) Future Projections of E-commerce
