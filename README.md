@@ -5,7 +5,7 @@
 
 The landscape of Retail has changed staggeringly in the past decade, evolving from purely brick-and-mortor sales to a post-pandemic digital-first approach for retailers. Our Project, which is broken up into 3 separate parts, will focus of retail's evolution over the past 5 years and provide an analysis focused on 3 factors:
 
-# 1) Impact of E-commerce on Overall Retail/Sales
+## 1) Impact of E-commerce on Overall Retail/Sales
 
 Our Project will focus on the following 4 Industries:
 
