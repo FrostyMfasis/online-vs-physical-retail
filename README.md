@@ -31,6 +31,17 @@ Our Project will focus on the following 4 Industries:
 
 # 2) Factors Impacting the Market
 
+Our Project will focus on the following 4 major factors of impact:
+
+## A) Furniture, Building Materials, & Electronics
+
+## B) Motor Vehicles & Parts
+
+## C) All Other (food and beverage, health and personal care, sporting goods, musical instruments, & books, miscellaneous) 
+
+## D) Total Retail Sales
+
+
 
 
 
