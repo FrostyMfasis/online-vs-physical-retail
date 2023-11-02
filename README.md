@@ -27,6 +27,8 @@ Our Project will focus on the following 4 Industries:
 
 
 
+
+
 # 2) Factors Impacting the Market
 
 
@@ -41,6 +43,8 @@ Our Project will focus on the following 4 Industries:
 
 
 # 3) Future Projections of E-commerce
+
+![4_total_retail_monte_carlo](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/2f140b24-4791-441e-afbb-120533dfb44f)
 
 
 
