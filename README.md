@@ -16,6 +16,7 @@ The landscape of Retail has changed staggeringly in the past decade, evolving fr
 
 ![1_Image - E_Commerce_Sales ](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/f9fb11b0-e556-4153-9257-9dea4ebd1d3f)
 
+![6_Image_Total_Brick_and_Mortar_Sales_vs_e_Commerce_ Sales](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065537/ba878c0f-d449-46e3-9e16-6a85881644c4)
 
 
 ## B) Motor Vehicles & Parts
