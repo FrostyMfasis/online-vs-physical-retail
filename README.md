@@ -9,13 +9,13 @@ The landscape of Retail has changed staggeringly in the past decade, evolving fr
 
 Our Project will focus on the following 4 Industries:
 
-A) Furniture, Building Materials, & Electronics
+# A) Furniture, Building Materials, & Electronics
 
-B) Motor Vehicles & Parts
+# B) Motor Vehicles & Parts
 
-C) All Other (food and beverage, health and personal care, sporting goods, musical instruments, & books, miscellaneous) 
+# C) All Other (food and beverage, health and personal care, sporting goods, musical instruments, & books, miscellaneous) 
 
-D) Total Retail Sales
+# D) Total Retail Sales
 
 
 
