@@ -50,6 +50,8 @@ Our Project will focus on the following 4 major factors of impact:
 
 ![1_NC_covid_cases](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/b7a71575-8a31-416e-82fc-7d4f8eb9f385)
 
+![1_employees_working_from_home_bar_chart](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/88e9d46b-2c78-4720-ab80-28f9f195fe1f)
+
 
 ## C) Consumer Price Index (CPI)
 
