@@ -17,6 +17,10 @@ The landscape of Retail has changed staggeringly in the past decade, evolving fr
 
 ## B) Motor Vehicles & Parts
 
+![1_motor_vehicle_car_sales](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/bc3dd443-aa4f-4ea2-b15b-073ce55d474f)
+
+![2_cars_dot_com_revenue](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/3ffa616f-2ee5-414b-942e-957edab47660)
+
 ## C) All Other (food and beverage, health and personal care, sporting goods, musical instruments, & books, miscellaneous) 
 
 ![Screenshot (126)](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/b7c12d6b-0d35-447f-95e9-e48864f8e5fe)
