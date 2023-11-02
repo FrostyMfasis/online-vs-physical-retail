@@ -41,6 +41,13 @@ Our Project will focus on the following 4 major factors of impact:
 
 ## D) Real Disposable Income + Total Retail Vacancies 
 
+![1_Image - Real_Disposable_Income](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/9915f320-d7ba-4126-a72a-0590585f5d31)
+
+![2_Image - Total_Retail_Vacancies](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/4e1fd9a7-5732-4197-8b24-703dd30bf604)
+
+![3_Image - Correlation_Seaborn_Heatmap](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/05ac3251-37e0-4707-9dd6-c5173a7bc7e5)
+
+
 
 
 
