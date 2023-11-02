@@ -12,9 +12,11 @@ The landscape of Retail has changed staggeringly in the past decade, evolving fr
 ## A) Furniture, Building Materials, & Electronics
 ![5_Image - Brick-and_Mortar_total_Sales](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065537/c96c8bb3-1869-4bc4-bc6c-f23b05cc6bc1)
 
+![2_Image - Total_E_Commerce_Sales](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/0219b659-7a30-4d18-aa2a-3aafc10fe041)
+
 ![1_Image - E_Commerce_Sales ](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/f9fb11b0-e556-4153-9257-9dea4ebd1d3f)
 
-![2_Image - Total_E_Commerce_Sales](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/0219b659-7a30-4d18-aa2a-3aafc10fe041)
+
 
 ## B) Motor Vehicles & Parts
 
