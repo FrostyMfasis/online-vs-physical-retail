@@ -15,6 +15,12 @@ Our Project will focus on the following 4 Industries:
 
 ## C) All Other (food and beverage, health and personal care, sporting goods, musical instruments, & books, miscellaneous) 
 
+![Screenshot (126)](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/b7c12d6b-0d35-447f-95e9-e48864f8e5fe)
+
+![Screenshot (127)](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/59434441-54f7-45ba-b67d-c9abac6b46f0)
+
+![Screenshot (128)](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/ae498a0a-f3a8-4a95-b081-d31fc838c76b)
+
 ## D) Total Retail Sales
 
  
