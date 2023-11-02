@@ -7,7 +7,7 @@ The landscape of Retail has changed staggeringly in the past decade, evolving fr
 
 ## 1) Impact of E-commerce on Overall Retail/Sales
 
-Our Project will focus on the following 4 Industries:
+# Our Project will focus on the following 4 Industries:
 
 ## A) Furniture, Building Materials, & Electronics
 
