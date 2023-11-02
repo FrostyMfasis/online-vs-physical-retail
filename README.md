@@ -33,13 +33,13 @@ Our Project will focus on the following 4 Industries:
 
 Our Project will focus on the following 4 major factors of impact:
 
-## A) Furniture, Building Materials, & Electronics
+## A) Inflation
 
-## B) Motor Vehicles & Parts
+## B) Covid
 
-## C) All Other (food and beverage, health and personal care, sporting goods, musical instruments, & books, miscellaneous) 
+## C) Consumer Price Index (CPI)
 
-## D) Total Retail Sales
+## D) Real Disposable Income + Total Retail Vacancies 
 
 
 
