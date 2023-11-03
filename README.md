@@ -78,9 +78,13 @@ Our Project will focus on the following 4 major factors of impact:
 
 # 3) Future Projections of E-commerce
 
+As we can see, although some industries were impacted more than others, e-commerce sales have increased drastically from 2018 onwards. In order to predict into the future, we constructed a Monte Carlo simulation to predict out projected e-commerce sales into 2028. As expected, we continue to see an increase in e-commerce sales through this time, as consumers will likely continue to follow up shopping tendencies developed throughout Covid.
+
 ![4_total_retail_monte_carlo](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/2f140b24-4791-441e-afbb-120533dfb44f)
 
 ![2_e_commerce_monte_carlo](https://github.com/FrostyMfasis/online-vs-physical-retail/blob/main/Total_Retail/2_e_commerce_monte_carlo.png)
+
+In conclusion, we feel as though the factors we presented had a major impact on the shifting landscape of retail from a purely brick and mortar to an increasing e-commerce dominant space. As time goes, we fully expect this trend to continue, if not increase even more.
 
 ![c02c16aa94c56c104072d8662b835e4fcf167432](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/61b0f109-47ef-4164-b83c-88e8189bffa6)
 
