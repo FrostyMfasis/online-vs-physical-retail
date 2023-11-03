@@ -86,6 +86,7 @@ As we can see, although some industries were impacted more than others, e-commer
 
 In conclusion, we feel as though the factors we presented had a major impact on the shifting landscape of retail from a purely brick and mortar to an increasing e-commerce dominant space. As time goes, we fully expect this trend to continue, if not increase even more.
 
+
 ![c02c16aa94c56c104072d8662b835e4fcf167432](https://github.com/FrostyMfasis/online-vs-physical-retail/assets/133065460/61b0f109-47ef-4164-b83c-88e8189bffa6)
 
 
